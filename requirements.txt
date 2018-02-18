@@ -8,3 +8,4 @@ pytz==2018.3
 virtualenv==15.1.0
 -e git+git://github.com/deschler/django-modeltranslation.git@master#egg=django-modeltranslation
 
+django-import-export==1.0.0
